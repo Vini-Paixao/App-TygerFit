@@ -42,7 +42,7 @@ O aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Autor
 
-Este aplicativo foi desenvolvido por Marcus Vinicius de Aguiar Paixão. Se você tiver alguma dúvida ou sugestão, pode entrar em contato comigo através do e-mail marcuspaixao0@gmail.com.
+Este aplicativo foi desenvolvido por Marcus Vinicius de Aguiar Paixão e Pedro Henrique Leite Alves. Se você tiver alguma dúvida ou sugestão, pode entrar em contato comigo através do e-mail marcuspaixao0@gmail.com.
 
 
 ## Licença

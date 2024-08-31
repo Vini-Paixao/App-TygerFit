@@ -1,5 +1,5 @@
 
-# Aplicativo TygerFit <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+# Aplicativo TigerFit <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 Aplicativo desenvolvido em Flutter e Dart para complementar o projeto de Academia da TigerFit, os clientes que comprarem o plano Premium tem direito ao APP exclusivo.
 
